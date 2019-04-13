@@ -1,0 +1,20 @@
+
+.guitar .jumbotron{
+    background:url(guitar.png ) center no-repeat; background-size: cover; margin: 0;
+}
+
+.nabe .jumbotron { 
+    background:url(nabe.png) center no-repeat; background-size: cover; margin: 0;
+}
+
+.sleeping .jumbotron { 
+    background:url(sleeping.png) center no-repeat; background-size: cover; margin: 0;
+}
+
+.font h1{
+    font-size: 54px;
+}
+
+footer p{
+    margin: 0;
+}
